@@ -27,11 +27,12 @@ We treat **products/platforms** and **enterprise technical services** as **peer 
 
 ### NovHub (Innovation Laboratory)
 
-**NovHub** is TrendOverflow’s **Innovation Laboratory** (创新实验室)—focused on applied R&D that becomes enterprise products, platforms, and technical services.
+**NovHub** is TrendOverflow’s **Innovation Laboratory** (创新实验室)—focused on applied R&D that becomes products, platforms, and technical services.
 
 - **Nature:** Innovation Laboratory (创新实验室)
-- **Mission:** Build enterprise technology products and platforms, and provide enterprise-grade technical services
-- **Scope:** Product planning, platform capability, and service delivery aligned to real buyer needs—across cloud-native systems, AI-assisted operations, and regulated enterprise environments
+- **Mission:** Build technology products and platforms, and provide technical services at enterprise grade where required
+- **Audience:** Not limited to enterprises — NovHub may serve **enterprise customers** and **end consumers** (B2B and B2C)
+- **Scope:** Product planning, platform capability, and service delivery across cloud-native systems, AI-assisted experiences, and regulated environments where applicable
 - **On GitHub:** [Team @trendoverflow/novhub](https://github.com/orgs/trendoverflow/teams/novhub) · [Overview repository](https://github.com/trendoverflow/novhub)
 
 > NovHub is not a separate GitHub organization login. It operates as an Innovation Laboratory inside TrendOverflow.
@@ -40,11 +41,13 @@ We treat **products/platforms** and **enterprise technical services** as **peer 
 
 ## Who we serve
 
-Enterprises and teams that need:
+TrendOverflow primarily engages **enterprises and teams** that need:
 
 - Production-grade platforms rather than prototypes
 - Clear engineering baselines (security, reliability, operability)
 - Partners who can both **ship software** and **run services** at enterprise standard
+
+Through **NovHub**, offerings may also reach **end consumers** where consumer products or experiences are part of the laboratory’s roadmap.
 
 **Service coverage:** Rooted in Hong Kong, serving the world — including mainland China and overseas enterprises.
 

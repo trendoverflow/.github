@@ -4,7 +4,7 @@
 
 **Technology products. Enterprise delivery. Built to last.**
 
-TrendOverflow concentrates on three pillars: **technology innovation**, **technical implementation**, and **technical services**. We design and operate proprietary platforms—and we deliver the services that make them work in production.
+TrendOverflow concentrates on three pillars: **technology innovation**, **technical implementation**, and **technical services**. We design and operate proprietary platforms—and we deliver the technical services that make them work in production.
 
 ---
 
@@ -12,14 +12,13 @@ TrendOverflow concentrates on three pillars: **technology innovation**, **techni
 
 TrendOverflow’s work is organized around three equal pillars.
 
-
 | Pillar | Focus |
 |--------|--------|
-| **Technology innovation** | Applied R&D that turns emerging capability into reliable enterprise systems |
+| **Technology innovation** | Applied R&D that turns emerging capability into reliable systems |
 | **Technical implementation** | Architecture, engineering standards, and production-ready builds |
-| **Technical services** | Enterprise delivery, operations, and advisory that sit alongside our products—not beneath them |
+| **Technical services** | Delivery, operations, and advisory that sit alongside our products—not beneath them |
 
-We treat **products/platforms** and **enterprise technical services** as **peer offerings**: customers can adopt our software, engage our delivery teams, or both.
+We treat **products/platforms** and **technical services** as **peer offerings**.
 
 ---
 
@@ -27,30 +26,18 @@ We treat **products/platforms** and **enterprise technical services** as **peer 
 
 ### NovHub (Innovation Laboratory)
 
-**NovHub** is TrendOverflow’s **Innovation Laboratory** (创新实验室)—focused on applied R&D that becomes products, platforms, and technical services.
+**NovHub** is TrendOverflow’s **Innovation Laboratory** (创新实验室).
 
 - **Nature:** Innovation Laboratory (创新实验室)
-- **Mission:** Build technology products and platforms, and provide technical services at enterprise grade where required
-- **Audience:** Not limited to enterprises — NovHub may serve **enterprise customers** and **end consumers** (B2B and B2C)
-- **Scope:** Product planning, platform capability, and service delivery across cloud-native systems, AI-assisted experiences, and regulated environments where applicable
 - **On GitHub:** [Team @trendoverflow/novhub](https://github.com/orgs/trendoverflow/teams/novhub) · [Overview repository](https://github.com/trendoverflow/novhub)
 
 > NovHub is not a separate GitHub organization login. It operates as an Innovation Laboratory inside TrendOverflow.
 
 ---
 
-## Who we serve
+## Service coverage
 
-TrendOverflow primarily engages **enterprises and teams** that need:
-
-- Production-grade platforms rather than prototypes
-- Clear engineering baselines (security, reliability, operability)
-- Partners who can both **ship software** and **run services** at enterprise standard
-
-Through **NovHub**, offerings may also reach **end consumers** where consumer products or experiences are part of the laboratory’s roadmap.
-
-**Service coverage:** Rooted in Hong Kong, serving the world — including mainland China and overseas enterprises.
-
+**Rooted in Hong Kong, serving the world.**  
 **立足香港，放眼全球.**
 
 ---
@@ -58,9 +45,9 @@ Through **NovHub**, offerings may also reach **end consumers** where consumer pr
 ## How we work
 
 1. **Evidence over slogans** — decisions grounded in architecture, operations, and measurable outcomes  
-2. **Product + service dual track** — platform capability and enterprise delivery planned together  
+2. **Product + service dual track** — platform capability and technical services planned together  
 3. **Standards first** — shared engineering and security baselines across labs and engagements  
-4. **Open where it helps** — public overviews and selected artifacts; private where customer trust requires it  
+4. **Open where it helps** — public overviews and selected artifacts; private where trust requires it  
 
 ---
 

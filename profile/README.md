@@ -46,7 +46,9 @@ Enterprises and teams that need:
 - Clear engineering baselines (security, reliability, operability)
 - Partners who can both **ship software** and **run services** at enterprise standard
 
-**TrendOverflow service coverage:** Hong Kong, mainland China, and overseas enterprises.
+**Service coverage:** Rooted in Hong Kong, serving the world — including mainland China and overseas enterprises.
+
+**立足香港，放眼全球.**
 
 ---
 
@@ -69,4 +71,4 @@ Enterprises and teams that need:
 
 ---
 
-*TrendOverflow — Technology Innovation · Technical Implementation · Technical Services · Serving Hong Kong, mainland China, and overseas enterprises*
+*TrendOverflow — Technology Innovation · Technical Implementation · Technical Services · Rooted in Hong Kong, serving the world*

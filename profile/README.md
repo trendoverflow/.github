@@ -25,16 +25,16 @@ We treat **products/platforms** and **enterprise technical services** as **peer 
 
 ## Brands & labs
 
-### NovHub (Laboratory)
+### NovHub (Innovation Laboratory)
 
-**NovHub** is a **laboratory** under TrendOverflow—our applied R&D and delivery lab for enterprise technology.
+**NovHub** is TrendOverflow’s **Innovation Laboratory** (创新实验室)—focused on applied R&D that becomes enterprise products, platforms, and technical services.
 
-- **Nature:** Laboratory
+- **Nature:** Innovation Laboratory (创新实验室)
 - **Mission:** Build enterprise technology products and platforms, and provide enterprise-grade technical services
 - **Scope:** Product planning, platform capability, and service delivery aligned to real buyer needs—across cloud-native systems, AI-assisted operations, and regulated enterprise environments
 - **On GitHub:** [Team @trendoverflow/novhub](https://github.com/orgs/trendoverflow/teams/novhub) · [Overview repository](https://github.com/trendoverflow/novhub)
 
-> NovHub is not a separate GitHub organization login. It operates as a laboratory inside TrendOverflow.
+> NovHub is not a separate GitHub organization login. It operates as an Innovation Laboratory inside TrendOverflow.
 
 ---
 
@@ -66,7 +66,7 @@ Enterprises and teams that need:
 | Resource | Link |
 |----------|------|
 | Organization | [github.com/trendoverflow](https://github.com/trendoverflow) |
-| NovHub lab | [github.com/trendoverflow/novhub](https://github.com/trendoverflow/novhub) |
+| NovHub Innovation Lab | [github.com/trendoverflow/novhub](https://github.com/trendoverflow/novhub) |
 | NovHub team | [github.com/orgs/trendoverflow/teams/novhub](https://github.com/orgs/trendoverflow/teams/novhub) |
 
 ---

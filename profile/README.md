@@ -1,12 +1,17 @@
 # TrendOverflow
 
+**Organizational focus:** Technology Innovation · Technical Implementation · Technical Services
+
 **Technology products. Enterprise delivery. Built to last.**
 
-TrendOverflow is a technology organization focused on **innovation**, **implementation**, and **enterprise-grade technical services**. We design and operate proprietary platforms—and we deliver the services that make them work in production.
+TrendOverflow concentrates on three pillars: **technology innovation**, **technical implementation**, and **technical services**. We design and operate proprietary platforms—and we deliver the services that make them work in production.
 
 ---
 
-## What we do
+## Organizational focus
+
+TrendOverflow’s work is organized around three equal pillars.
+
 
 | Pillar | Focus |
 |--------|--------|
@@ -64,4 +69,4 @@ Enterprises and teams that need:
 
 ---
 
-*TrendOverflow — Serving Hong Kong, mainland China, and overseas enterprises*
+*TrendOverflow — Technology Innovation · Technical Implementation · Technical Services · Serving Hong Kong, mainland China, and overseas enterprises*

@@ -20,15 +20,16 @@ We treat **products/platforms** and **enterprise technical services** as **peer 
 
 ## Brands & labs
 
-### NovHub
+### NovHub (Laboratory)
 
-**NovHub** is a lab and sub-brand under TrendOverflow.
+**NovHub** is a **laboratory** under TrendOverflow—our applied R&D and delivery lab for enterprise technology.
 
-- **Mission:** Build enterprise technology products and platforms, and provide enterprise-grade technical services.
-- **Scope:** Product planning, platform capability, and service delivery aligned to real buyer needs—across cloud-native systems, AI-assisted operations, and regulated enterprise environments.
+- **Nature:** Laboratory
+- **Mission:** Build enterprise technology products and platforms, and provide enterprise-grade technical services
+- **Scope:** Product planning, platform capability, and service delivery aligned to real buyer needs—across cloud-native systems, AI-assisted operations, and regulated enterprise environments
 - **On GitHub:** [Team @trendoverflow/novhub](https://github.com/orgs/trendoverflow/teams/novhub) · [Overview repository](https://github.com/trendoverflow/novhub)
 
-> NovHub is not a separate GitHub organization login. It operates as a department / laboratory inside TrendOverflow.
+> NovHub is not a separate GitHub organization login. It operates as a laboratory inside TrendOverflow.
 
 ---
 
@@ -40,7 +41,7 @@ Enterprises and teams that need:
 - Clear engineering baselines (security, reliability, operability)
 - Partners who can both **ship software** and **run services** at enterprise standard
 
-Primary footprint: **Hong Kong**, with delivery oriented to regional and global enterprise requirements.
+**TrendOverflow service coverage:** Hong Kong, mainland China, and overseas enterprises.
 
 ---
 
@@ -63,4 +64,4 @@ Primary footprint: **Hong Kong**, with delivery oriented to regional and global 
 
 ---
 
-*TrendOverflow — Hong Kong · Enterprise technology*
+*TrendOverflow — Serving Hong Kong, mainland China, and overseas enterprises*

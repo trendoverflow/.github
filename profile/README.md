@@ -36,7 +36,7 @@ NovHub is not a separate GitHub organization. It operates as an Innovation Labor
 
 ## Service coverage
 
-**Rooted in Hong Kong, serving the world.**
+**Serving the world.**
 
 ---
 
@@ -59,4 +59,4 @@ NovHub is not a separate GitHub organization. It operates as an Innovation Labor
 
 ---
 
-*TrendOverflow — Technology Innovation · Technical Implementation · Technical Services · Rooted in Hong Kong, serving the world*
+*TrendOverflow — Technology Innovation · Technical Implementation · Technical Services*
